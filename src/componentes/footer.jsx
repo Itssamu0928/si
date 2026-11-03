@@ -10,7 +10,7 @@ function Footer() {
       color: "#64748b" 
     }}>
       <p style={{ margin: 0, fontSize: "1.05rem", fontWeight: "500" }}>
-        Proyecto creado por Samuel López
+        Proyecto de read creado por Samuel López
       </p>
       
       {/* Estilo de "botón" para el logo */}
